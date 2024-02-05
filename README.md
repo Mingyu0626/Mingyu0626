@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyu0626&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0232a&icon_color=088A08&text_color=fff&title_color=088a08&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyu0626&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=088A08&text_color=fff&title_color=088a08&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Mingyu0626&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=088A08&text_color=fff&title_color=088A08&count_private=true" width=56% />
