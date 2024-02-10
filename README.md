@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/choimingyu_0626/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=appveyor&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/choimingyu_0626/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram?style=flat-square&logo=appveyor&logoColor=E4405F"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyu0626&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=088A08&text_color=fff&title_color=088a08&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
