@@ -1,7 +1,7 @@
 ## Introduction
 ### 게임 프로듀서를 지망하는 최민규라고 합니다. 반갑습니다.
 ### ゲームプロヂューサーを目指しているチェ·ミンギュと申します。よろしくお願いします。
-### I'm Mingyu Choi, aspiring game producer. Nice to meet you.
+### I'm Mingyu Choi, aspiring game producer. Nice to meet you.<br/><br/>
 <!--
 **Mingyu0626/Mingyu0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
