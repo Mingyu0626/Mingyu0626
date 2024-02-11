@@ -56,7 +56,7 @@ Here are some ideas to get you started:
  <p align="center">
     <a href="https://solved.ac/mg010626/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mg010626" alt="Solved.ac Profile"/>
-        <img src="http://mazandi.herokuapp.com/api?handle=mg010626&theme=warm"/>
+        <img src="http://mazandi.herokuapp.com/api?handle=mg010626&theme=dark"/>
     </a>
 </p>
 
