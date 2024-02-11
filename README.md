@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## Algorithms
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mg010626)](https://solved.ac/mg010626/)
-<img src="http://mazandi.herokuapp.com/api?handle={mg010626}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=mg010626&theme=warm"/>
 
 <br/><br/>
 
