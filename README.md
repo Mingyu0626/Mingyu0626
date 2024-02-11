@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/C\#-black?style=flat&logo=csharp&logoColor=512BD4"/>
 ## Experienced In Use
-<img src="https://img.shields.io/badge/Android%20Studio-black?style=flat&logo=androidstudio&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Android%20Studio-black?style=flat&logo=androidstudio&logoColor=3DDC84"/><img src="https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/>
 <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Google%20Colab-black?style=flat&logo=googlecolab&logoColor=F9AB00"/>
 <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=A8B9CC"/>
