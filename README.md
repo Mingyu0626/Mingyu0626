@@ -70,4 +70,3 @@ Here are some ideas to get you started:
 
 ## Contacts
 <a href="https://www.instagram.com/choimingyu_0626/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=E4405F"/><a>
-<a href="https://www.notion.so/Road-to-Game-Director-511cc09d996f4fe49cea907fb00a9f9a" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"/><a>
