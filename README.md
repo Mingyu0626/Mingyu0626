@@ -1,9 +1,9 @@
 
 
 ## Introduction
-#### 게임 프로듀서를 지망하는 최민규라고 합니다. 반갑습니다.
-#### ゲームプロヂューサーを目指しているチェ·ミンギュと申します。よろしくお願いします。
-#### I'm Mingyu Choi, aspiring game producer. Nice to meet you.
+#### 게임 엔지니어를 지망하는 최민규라고 합니다. 반갑습니다.
+#### ゲームエンジニアを目指しているチェ·ミンギュと申します。よろしくお願いします。
+#### I'm Mingyu Choi, aspiring game engineer. Nice to meet you.
 
 <br/><br/>
 
