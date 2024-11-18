@@ -1,6 +1,5 @@
 
 ## Introduction
-#### 새로운 경험을 즐기고 이를 통해 성장하는 게임 개발자 최민규입니다## Introduction
 #### 새로운 경험을 즐기고 이를 통해 성장하는 게임 개발자 최민규입니다. 반갑습니다.
 #### 新しい経験を楽しんで、これを通じて成長するゲームプログラマー「チェ·ミンギュ」と申します。よろしくお願いします。
 #### I'm Mingyu Choi, game developer who enjoys new experiences and grows through them. Nice to meet you.
