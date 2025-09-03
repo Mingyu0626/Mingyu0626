@@ -9,14 +9,18 @@
 
 ## Mainly Used
 <p align="left">
-    <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/><br/>
 </p>
 
 
