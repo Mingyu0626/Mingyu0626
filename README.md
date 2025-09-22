@@ -57,7 +57,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mingyu0626&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyu0626&layout=compact&theme=tokyonight">
 </p>
-
-
-## Contacts
-<a href="https://www.instagram.com/choimingyu_0626/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=E4405F"/><a>
