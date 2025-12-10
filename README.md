@@ -4,10 +4,10 @@
 <br>
 
 ## 👨🏻‍💻 About Me
-##### 👋🏻 Hi, I’m Mingyu Choi😄 <br>
-##### 🎮 I’m interested in **Computer Science** & **Game Programming**. <br>
-##### 📚 I’m currently learning **Game Engine** & **Prompt Engineering**. <br>
-##### 🔥 I’m looking to collaborate on **Game Development** & **Game Publishing Service**. <br>
+#### 👋🏻 Hi, I’m Mingyu Choi😄 <br>
+#### 🎮 I’m interested in **Computer Science** & **Game Programming**. <br>
+#### 📚 I’m currently learning **Game Engine** & **Prompt Engineering**. <br>
+#### 🔥 I’m looking to collaborate on **Game Development** & **Game Publishing Service**. <br>
 
 <br>
 
