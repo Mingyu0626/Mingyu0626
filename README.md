@@ -1,10 +1,18 @@
 
-## Introduction
-#### 새로운 경험을 즐기고 이를 통해 성장하는 게임 개발자 최민규입니다. 반갑습니다.
-#### 新しい経験を楽しんで、これを通じて成長するゲームプログラマー「チェ·ミンギュ」と申します。よろしくお願いします。
-#### I'm Mingyu Choi, game developer who enjoys new experiences and grows through them. Nice to meet you.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Mingyu%20Choi&animation=scaleIn&fontAlignY=35&fontColor=f7f5f5&fontSize=80&desc=Turn%20reality%20to%20fantasy.&descSize=20)
 
-<br/><br/>
+
+
+## About Me🧑🏻‍💻
+- 😘 Hi, I’m Mingyu Choi! <br>
+- 🌟 I’m interested in - Computer Science & Game Programming <br>
+- 📚 I’m currently learning - Game Engine & Prompt Engineering <br>
+- 🤓️ I’m looking to collaborate on - Game Development & Game Publishing Service <br>
+
+
+
+
+<br>
 
 
 ## Mainly Used
