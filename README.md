@@ -2,13 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Welcome%20to%20Mingyu's%20Github🙏🏻&animation=scaleIn&fontAlignY=40&fontColor=f7f5f5&fontSize=45&desc=Turn%20reality%20to%20fantasy.&descSize=20)
 
+</div>
+
 <br>
 
 ## 👨🏻‍💻 About Me
 
+<div align="center">
+
 #### 👋🏻 Hi, I’m Mingyu Choi😄
 #### 📚 I’m currently learning **Computer Science** & **Game Engine**.
 #### 🔥 I’m looking to collaborate on **Game Development** & **Game Publishing Service**.
+
+</div>
 
 <br><br>
 
@@ -66,19 +72,19 @@
 
 ## 📊 Github Status
 
-<a href="#-my-statistics" rel="noopener noreferrer"><img
-    src="https://github-readme-stats-steel-omega.vercel.app/api?username=Mingyu0626&custom_title=Mingyu's%20GitHub%20Stats&count_private=true&show_icons=true&disable_animations=true&border_radius=18&cache_seconds=43200&theme=tokyonight"
-    width="49%"
-    title="Mingyu0626 Statistics"
-    alt="GitHub statistics"
-    loading="lazy"
-  /></a>
-<a href="#-my-statistics" rel="noopener noreferrer"><img
-    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Mingyu0626&count_private=true&card_width=395&show_icons=true&disable_animations=true&layout=compact&border_radius=18&cache_seconds=43200&theme=tokyonight"
-    width="49%"
-    title="Mingyu0626 Programming Language Usage"
-    alt="Top programming languages"
-    loading="lazy"
-  /></a>
-
+<div align="center">
+  <a href="#-my-statistics" rel="noopener noreferrer"><img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=Mingyu0626&custom_title=Mingyu's%20GitHub%20Stats&count_private=true&show_icons=true&disable_animations=true&border_radius=18&cache_seconds=43200&theme=tokyonight"
+      width="49%"
+      title="Mingyu0626 Statistics"
+      alt="GitHub statistics"
+      loading="lazy"
+    /></a>
+  <a href="#-my-statistics" rel="noopener noreferrer"><img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Mingyu0626&count_private=true&card_width=395&show_icons=true&disable_animations=true&layout=compact&border_radius=18&cache_seconds=43200&theme=tokyonight"
+      width="49%"
+      title="Mingyu0626 Programming Language Usage"
+      alt="Top programming languages"
+      loading="lazy"
+    /></a>
 </div>
