@@ -81,7 +81,7 @@
       loading="lazy"
     /></a>
   <a href="#-my-statistics" rel="noopener noreferrer"><img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Mingyu0626&count_private=true&card_width=395&show_icons=true&disable_animations=true&layout=compact&border_radius=18&cache_seconds=43200&theme=tokyonight"
+      src="/github-metrics-languages.svg"
       width="49%"
       title="Mingyu0626 Programming Language Usage"
       alt="Top programming languages"
