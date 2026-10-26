@@ -22,3 +22,17 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 6
+          # 왼쪽 github-readme-stats 카드(tokyonight, 467x195)와 같은 모양·비율
+          config_padding: 0, 0
+          extras_css: |
+            svg{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;color:#38bdae}
+            .items-wrapper{box-sizing:border-box;height:200px;margin:0;padding:18px 20px 0;background:#1a1b27;border:1px solid #e4e2e2;border-radius:18px;overflow:hidden}
+            .items-wrapper>section:first-child{display:none}
+            .column{align-items:flex-start}
+            h3.field{margin:0 0 0 5px;color:#70a5fd;font-size:18px;font-weight:600;text-transform:capitalize}
+            svg.bar{margin:14px 0 16px 5px;transform:scaleX(.93);transform-origin:0 0}
+            .field.language{margin:0 5px 12px;font-weight:600}
+            .field.language.details{justify-content:flex-start}
+            .field.language.details>*{flex:0 0 auto}
+            .field.language.details small{color:#38bdae;margin-left:6px;font-size:13px}
+            .field.language .field svg{margin:0 6px 0 0}
