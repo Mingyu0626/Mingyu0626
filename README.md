@@ -11,8 +11,8 @@
 <div align="center">
 
 #### 👋🏻 Hi, I’m Mingyu Choi😄
-#### 📚 I’m currently learning **Computer Science** & **Game Engine**.
-#### 🔥 I’m looking to collaborate on **Game Development** & **Game Publishing Service**.
+#### 📚 I’m currently learning **Computer Science**, **Game Engine** and **Harness Engineering**.
+#### 🔥 I’m looking to collaborate on **Game Development with AI**.
 
 </div>
 
