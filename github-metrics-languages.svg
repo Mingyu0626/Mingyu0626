@@ -31,12 +31,12 @@ svg.bar{margin:14px 0 16px 5px;transform:scaleX(.93);transform-origin:0 0}
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.2826225896867" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="311.2826225896867" y="0" width="78.91688387494885" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="390.19950646463553" y="0" width="50.54739433706594" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="440.74690080170143" y="0" width="8.535346857752923" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.28224765945436" y="0" width="8.389293496279308" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="457.6715411557337" y="0" width="2.3284588442662715" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.56287646479274" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="311.56287646479274" y="0" width="78.69452052504458" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="390.25739698983733" y="0" width="50.53918048916213" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="440.79657747899944" y="0" width="8.515869488852227" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.31244696785166" y="0" width="8.365655064126832" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="457.6781020319785" y="0" width="2.3218979680215157" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -48,7 +48,7 @@ svg.bar{margin:14px 0 16px 5px;transform:scaleX(.93);transform-origin:0 0}
                                 C#
                             </div>
                             <small>
-                                <div>67.67%</div>
+                                <div>67.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -83,7 +83,7 @@ svg.bar{margin:14px 0 16px 5px;transform:scaleX(.93);transform-origin:0 0}
                                 C++
                             </div>
                             <small>
-                                <div>17.16%</div>
+                                <div>17.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@ svg.bar{margin:14px 0 16px 5px;transform:scaleX(.93);transform-origin:0 0}
                                 Python
                             </div>
                             <small>
-                                <div>1.86%</div>
+                                <div>1.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -105,7 +105,7 @@ svg.bar{margin:14px 0 16px 5px;transform:scaleX(.93);transform-origin:0 0}
                                 C
                             </div>
                             <small>
-                                <div>0.51%</div>
+                                <div>0.5%</div>
                             </small>
                         </div>
                     </section>
